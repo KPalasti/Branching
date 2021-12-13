@@ -2,6 +2,7 @@
 
 ### Basic Commands
 
+Summary of Git commands.
 * 'git init' - Initialize local Git repository.
 * 'git add .' - Add all files in and under current directory to git index, staging them for commit
 * 'git commit -m "Message"' - Commit changes to local repo with message "Message"
